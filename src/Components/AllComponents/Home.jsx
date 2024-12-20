@@ -1,6 +1,6 @@
 import React, { useContext, useRef } from "react";
 import Header from "../Header/Header";
-import Navbar from "../Navbar/Navbar";
+import Navbar from "../NavBar/NavBar";
 import WrapperContainer from "../WrapperContainer/WrapperContainer";
 import MidFilterSection from "../MidSection/MidFilterSection";
 import MidComponentParent from "../MidSection/MidComponentParent";
