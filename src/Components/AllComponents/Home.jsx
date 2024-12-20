@@ -11,7 +11,7 @@ import Cards from "../MidSection/Cards";
 import Footer from "../Footer/Footer";
 import PopUpButton from "../PopUpButton/PopUpButton";
 import { ThemeBgContext } from "../ContextWrapper/ThemeContext";
-import MobileNav from "../Navbar/MobileNav";
+import MobileNav from "../NavBar/MobileNav";
 
 const Home = () => {
   const sectionTop = useRef();
